@@ -21,7 +21,7 @@ When you are initially working on your website, it is very useful to be able to 
 
 1. Clone the repository and made updates as detailed above.
 
-### Using a different IDE
+### Using a different IDE 
 1. Make sure you have ruby-dev, bundler, and nodejs installed
     
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
